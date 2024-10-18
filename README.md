@@ -30,7 +30,6 @@ RegisterNumber: 24900019
 ```
 
 ## Output:
-<img width="598" alt="screenshot" src="https://github.com/user-attachments/assets/216e27f7-d56c-481d-b332-23e5df6db647">
 
 
 ## Result:
