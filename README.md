@@ -30,6 +30,10 @@ RegisterNumber: 24900019
 ```
 
 ## Output:
+![Screenshot 2024-10-24 at 9 27 58 AM](https://github.com/user-attachments/assets/7265a854-a3d1-4dac-acd2-66f6e93d0f26)
+![Screenshot 2024-10-24 at 9 28 07 AM](https://github.com/user-attachments/assets/1544b2ca-6724-4b96-bfab-d3890f0f9df2)
+![Screenshot 2024-10-24 at 9 28 40 AM](https://github.com/user-attachments/assets/c657240b-2d05-426c-81b0-2875efde3dcc)
+![Screenshot 2024-10-24 at 9 28 46 AM](https://github.com/user-attachments/assets/aed10a1d-19ee-41b6-901c-2937077f9b83)
 
 
 ## Result:
